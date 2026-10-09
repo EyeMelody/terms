@@ -1,8 +1,8 @@
 {
   "id": "helldivers-wiki",
-  "name": "Helldivers Wiki",
-  "description": "English to Simplified Chinese terminology primarily covering Helldivers 2, based on English and Chinese Helldivers Wiki pages, with common weapon-name aliases, enemy plurals, and Warbond short names. Applies to Helldivers Wiki, Helldivers 2 pages on Nexus Mods, and the specified AyakaMods game and mod pages.",
-  "author": "EyeMelody (sourced from Helldivers Wiki)",
+  "name": "Helldivers 2",
+  "description": "English to Simplified Chinese terminology for Helldivers 2, compiled from English and Chinese pages on helldivers.wiki.gg. Covers weapons, stratagems, enemies, Warbonds, armor, and ship modules.",
+  "author": "helldivers.wiki.gg",
   "glossary": "helldivers-wiki",
   "matches": [
     "helldivers.wiki.gg",
@@ -16,8 +16,8 @@
   ],
   "i18ns": {
     "zh-CN": {
-      "name": "绝地潜兵 Wiki",
-      "description": "绝地潜兵 Wiki 英译简术语库，以《绝地潜兵2》为主，依据中英文 Wiki 整理武器、战略配备、敌人、战争债券、盔甲被动和舰船模块等名称，并包含常见简称与复数。适用于 Helldivers Wiki、Nexus Mods 的绝地潜兵2页面，以及指定的 AyakaMods 游戏与模组页面。"
+      "name": "《绝地潜兵2》",
+      "description": "《绝地潜兵2》英译简术语库，词条依据 helldivers.wiki.gg 的英文与简体中文页面整理，涵盖武器、战略配备、敌人、战争债券、盔甲及舰船模块。"
     }
   }
 }
